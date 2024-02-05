@@ -4,4 +4,4 @@ A implementação se trata de um conversor de moedas de diferentes países em re
 Para a elaboração dos Testes, foi usado a prórpia ferramenta de conversão do Banco Central para os valores e moedas determinadas.
 
 A biblioteca usada para os testes em python foi a unittest. Para rodar os testes, colocar ambos os arquivos no mesmo diretório e usar o comando:
-'''python -m unittest -v
+'''python -m unittest -v'''
